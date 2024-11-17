@@ -28,7 +28,7 @@ balance_parm = 1;          %balance parameter among to terms of loss function
 T_pow = 2;                 %power of T
 a_coefficient = 5;         %coefficient of u
 b_coefficient = 5;         %coefficient of t
-alpha_1 = 7;
+alpha_1 = 2;
 alpha_2 = 1;
 
 landa=I./var(X);
